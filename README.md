@@ -243,4 +243,4 @@ Indikator: 🟢 matang · 🟡 setengah matang · 🔴 mentah · ketiga LED kedi
 
 Proyek edukasi/riset. Model YOLO menggunakan Ultralytics (AGPL-3.0).
 
-**Dibuat oleh [Keyzoo0](https://github.com/Keyzoo0)** — 2026.
+
